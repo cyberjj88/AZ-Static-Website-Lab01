@@ -1,13 +1,5 @@
 # ☁️ Lab 01 — Hosting a Static Website on Azure Blob Storage
 
-**Author:** Jair Smith
-**Difficulty:** 🟢 Beginner
-**Estimated Time:** ⏱ 30 Minutes
-**Cloud Provider:** Microsoft Azure
-**Topic Area:** Storage · PaaS · Serverless Hosting
-
----
-
 ## 📋 Overview
 
 In this lab, I deployed a public-facing static website using **Azure Blob Storage** — no web servers, no virtual machines, no complex infrastructure. This is a foundational cloud exercise that introduces key concepts like Platform as a Service (PaaS), serverless hosting, and Azure's resource hierarchy.
@@ -263,5 +255,3 @@ lab-01-azure-static-website/
 - [Azure Free Account](https://azure.microsoft.com/en-us/free/)
 
 ---
-
-*Lab authored by **Jair Smith** · Azure Cloud Security Series · Lab 01 of ongoing curriculum*
