@@ -1,11 +1,11 @@
 ## Watch me do the lab HERE
-https://www.loom.com/share/fecb096e9eab4f18ac78fd4c90fdb1a7
+https://www.loom.com/share/6b4cd32ed98a4a89814327083ed548bc
 
 # ☁️ Lab 01 — Hosting a Static Website on Azure Blob Storage
 
 ## 📋 Overview
 
-In this lab, I deployed a public-facing static website using **Azure Blob Storage** — no web servers, no virtual machines, no complex infrastructure. This is a foundational cloud exercise that introduces key concepts like Platform as a Service (PaaS), serverless hosting, and Azure's resource hierarchy.
+In this lab, I deployed a public-facing static website using **Azure Blob Storage** — no web servers, no virtual machines, no complex infrastructure. This foundational cloud exercise introduces key concepts like Platform as a Service (PaaS), serverless hosting, and Azure's resource hierarchy.
 
 Instead of provisioning a full VM or App Service to serve a simple HTML page, Azure lets you flip on **Static Website Hosting** directly on a Storage Account. The result is a globally accessible URL at a fraction of the cost.
 
